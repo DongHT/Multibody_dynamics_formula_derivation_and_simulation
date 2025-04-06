@@ -25,6 +25,18 @@ https://b23.tv/sZe8ljK
 
 
 
+<center>圆柱铰</center>
+
+![](./images/Cylinder.gif)
+
+
+
+<center>棱柱铰</center>
+
+![](./images/Prism.gif)
+
+
+
 <center>多球铰复合</center>
 
 ![](./images/gif2.gif)
