@@ -9,7 +9,7 @@ https://b23.tv/sZe8ljK
 
 <center>单球铰</center>
 
-![](./images/gif1.gif)
+![](./images/Spherical.gif)
 
 
 
@@ -39,6 +39,6 @@ https://b23.tv/sZe8ljK
 
 <center>多球铰复合</center>
 
-![](./images/gif2.gif)
+![](./images/Multiple1.gif)
 
 
